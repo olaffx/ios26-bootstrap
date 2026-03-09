@@ -28,4 +28,4 @@ posix_spawn
 
 **Files that are going to work on a REAL iPhone:**
 
-fishhook.c
+fishhook.c – works on all iOS versions (1.0–26.1+)
